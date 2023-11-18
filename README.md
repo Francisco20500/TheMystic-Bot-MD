@@ -162,7 +162,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <a href="https://github.com/elrebelde21"><img src="https://github.com/elrebelde21.png" width="100" height="100" alt="elrebelde21"/> </a>
 <a href="https://github.com/Fabri115"><img src="https://github.com/Fabri115.png" width="100" height="100" alt="Fabri115"/> </a>
 
-## `AGRADECIMIENTOS & CREDITOS` 
+## `AGRADECIMIENTOS & CREDITO` 
 <div><button id="boton" type="button">games-wabot-md - By BochilGaming </button></div>
 <a href="https://github.com/BochilGaming/games-wabot-md/tree/multi-device"><img src="https://github.com/BochilGaming.png" width="150" height="150" alt="BochilGaming"/></a>
 <div><button id="boton" type="button">Baileys - By WhiskeySockets & adiwajshing</button></div>
